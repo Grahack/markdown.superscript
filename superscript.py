@@ -1,4 +1,4 @@
-"""Superscipt extension for Markdown.
+"""Superscript extension for Markdown.
 
 To superscript something, place a carat symbol, '^', before and after the
 text that you would like in superscript:  6.02 x 10^23^
